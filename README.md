@@ -1,4 +1,3 @@
 # RepoOptimizacionYMemorizacion
 
-Haider Rocha
-Leydi Araque
+Haider Rocha - Leydi Araque
